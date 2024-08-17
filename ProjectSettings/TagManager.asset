@@ -3,22 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Collections
-  - Enemies
-  - Players
-  - Cherry
-  - Gem
-  - deadLine
+  tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - anything
+  - 
   - Water
   - UI
-  - Ground
-  - GameOver
+  - 
+  - 
   - 
   - 
   - 
@@ -46,13 +40,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: bkground
-    uniqueID: 2514062933
-    locked: 0
-  - name: frontground
-    uniqueID: 217362721
-    locked: 0
-  - name: GameOver
-    uniqueID: 317654713
     locked: 0
